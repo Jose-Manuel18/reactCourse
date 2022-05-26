@@ -1,0 +1,56 @@
+.big_div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+.container {
+  left: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 2rem;
+  padding: 0rem 1rem;
+  background: wheat;
+  border: 1px solid black;
+  max-width: max-content;
+  align-items: center;
+  border-radius: 12px;
+}
+.title {
+  display: flex;
+  margin: 0px;
+  padding: 0rem 1rem;
+}
+
+.btn {
+  background-color: aqua;
+  margin: 10px 10px 3px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  transition: ease-in 0.2s;
+  padding: 5px;
+}
+.btn:hover {
+  background-color: rgb(58, 59, 59, 0.5);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.btn2 {
+  background-color: aqua;
+  margin: 3px 10px 10px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  transition: ease-in 0.2s;
+  padding: 5px;
+}
+.btn2:hover {
+  background-color: rgb(58, 59, 59, 0.5);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+#numberDisplayed {
+  margin: 5px;
+  font-size: larger;
+}
