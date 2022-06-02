@@ -1,0 +1,6 @@
+jose waffles iron 80 2
+jose blender 200 1
+jose knife 10 4
+laura waffles iron 80 4
+laura knife 10 2
+laura pot 20 4
